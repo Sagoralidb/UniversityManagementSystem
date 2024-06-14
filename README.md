@@ -1,3 +1,7 @@
+https://www.universitybd.mostofadevt.com/login.php
+username: admin 
+Pass: 1234
+
 DB file Name : schoolproject.sql 
 SEVER Virsion : Server version: 10.1.40
 
